@@ -15,6 +15,12 @@ export default {
     return {
       menus: this.$store.state.menusModule.menus
     };
+  },
+  created:{
+
+  },
+  mounted(){
+    
   }
 };
 </script>
