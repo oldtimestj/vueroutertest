@@ -1,5 +1,5 @@
 <template>
-  <h3>这里是{{currentRoute}}导航详情</h3>
+  <h3>这里是{{currentRoute}}导航详情11111111111111111111111111</h3>
 </template>
 <script>
 export default {
